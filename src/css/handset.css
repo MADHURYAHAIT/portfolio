@@ -1,0 +1,187 @@
+@media only screen and (max-width: 1203px) {
+    #head {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 0px;
+    }
+
+    #intro {
+        margin: 0;
+        padding: 0;
+    }
+
+    /* #profile-pic{
+        width: 40%;
+    } */
+
+    #intro-content {
+        flex-direction: column-reverse;
+        align-items: center;
+        color: rgb(192, 235, 20);
+    }
+
+    #desk-img {
+        overflow: hidden;
+        background-position: initial;
+        width: 90% !important;
+        object-fit: cover;
+    }
+
+    .carousel .card {
+        width: 95%;
+    }
+
+    .carousel iframe{
+        width: 100%;
+        height: 280px;
+    }
+    .wrapper .carousel {
+       
+        margin: auto;
+        padding: 20px 15px;
+        
+    }
+ 
+
+}
+
+/* @media (max-width: 991px) {
+    .navbar ul {
+        font-size: 12px;
+        flex-direction: column;
+        position: relative ;
+        font-weight:400;
+        height: 100vh;
+       
+    }
+
+    .navbar ul li {
+      
+        padding-bottom:20px;
+    
+    }
+} */
+
+@media only screen and (max-width: 768px) {
+
+    .ico{
+        font-size: 62px;
+    }
+    .carousel .card {
+        width: 95%
+    }
+
+    .heading-text {
+        margin-bottom: 0rem;
+    }
+
+
+    #mydetails {
+        padding-left: 0px;
+        font-size: 1rem;
+    }
+
+    div #text,
+    footer {
+        line-height: 20px;
+        font-size: 12px;
+    }
+
+
+    /* #hero .hero-container{
+        width:120%;
+        margin-left: -70px;
+        
+    } */
+
+    .carousel iframe{
+        width: 100%;
+        height: 180px;
+        
+    }
+    .wrapper .carousel {
+       
+        margin: auto;
+        padding: 30px 15px;
+        
+    }
+    
+
+    .hp-logo-left {
+        margin-top: -70px;
+        font-size: 140px;
+    }
+
+    .hp-logo-right {
+        margin-bottom: -53px;
+        font-size: 140px;
+    }
+    .typing-text {
+        font-size: 150%;        
+    
+    }
+
+    .Bigscreen{
+        visibility: hidden;
+        width: 0px !important;
+    }
+    .navbar button{
+        visibility: visible;
+    }
+
+
+}
+
+@media only screen and (max-width: 580px) {
+    .hehpda{
+        font-size: 2.3em !important;
+    }
+
+    div #text,
+    footer {
+        line-height: 18px;
+        font-size: 10px;
+    }
+
+
+    .social ul li {
+        padding-right: 12px;
+    }
+
+    .hp-logo-left {
+        margin-top: -11px;
+        font-size: 100px;
+    }
+
+    .hp-logo-right {
+        margin-bottom: -8px;
+        font-size: 100px;
+    }
+    .ytp-cued-thumbnail-overlay-image {
+        width: 100% !important;
+        height: 20px !important;
+    
+    }
+
+}
+
+@media only screen and (max-width: 400px) {
+
+
+
+
+    div #text,
+    footer {
+        font-size: 8px;
+    }
+
+    .wrapper .carousel {
+        padding: 0 10px;
+    }
+
+    .social ul li {
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+}
