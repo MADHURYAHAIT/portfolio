@@ -1,10 +1,7 @@
 import React from 'react'
 import { FaSearchLocation } from "react-icons/fa";
 import { MdOutlineEmail } from "react-icons/md";
-import { IoMdCall } from "react-icons/io"
-import { FaSquareFacebook,FaInstagram,FaLinkedin} from 'react-icons/fa6';
-import { FaGithubSquare } from "react-icons/fa";
-import {FaCircleArrowUp} from 'react-icons/fa6';
+import { IoMdCall } from "react-icons/io";
 
 export default function Contact() {
     return (
@@ -32,7 +29,6 @@ export default function Contact() {
                                 <p>Pradhan Colony, Zone no.- 3, Jamshedpur, Jharkhand</p>
                             </div>
                         </div>
-                
 
                        </div>
                        <div class="row">
