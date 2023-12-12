@@ -56,7 +56,7 @@ export default function Projects() {
                    
                     <strong className='text-altdeep'><h1>GLN website</h1></strong>
                     
-                    <p class="card-text">Made a custom commercial website for Gladiolus Language Nectar.</p>
+                    <p class="card-text">A custom commercial website for the company Gladiolus Language Nectar.</p>
                    
                     <a href="https://madhuryahait.github.io/GLADIOLUS-LANGUAGE-NECTAR-WEBSITE/"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
                    <a href="https://github.com/MADHURYAHAIT/GLADIOLUS-LANGUAGE-NECTAR-WEBSITE"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
