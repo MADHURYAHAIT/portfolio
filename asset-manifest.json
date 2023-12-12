@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "./static/css/main.3a084639.css",
-    "main.js": "./static/js/main.c9b1a3b7.js",
+    "main.js": "./static/js/main.1344a0f8.js",
     "static/js/496.a3c0c3c7.chunk.js": "./static/js/496.a3c0c3c7.chunk.js",
     "static/media/VT323 Regular.woff": "./static/media/VT323 Regular.b343c6fc57d1ccf26c80.woff",
     "static/media/Reckless Neue Medium.woff": "./static/media/Reckless Neue Medium.50d6a7f452902e63ff94.woff",
     "index.html": "./index.html",
     "main.3a084639.css.map": "./static/css/main.3a084639.css.map",
-    "main.c9b1a3b7.js.map": "./static/js/main.c9b1a3b7.js.map",
+    "main.1344a0f8.js.map": "./static/js/main.1344a0f8.js.map",
     "496.a3c0c3c7.chunk.js.map": "./static/js/496.a3c0c3c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3a084639.css",
-    "static/js/main.c9b1a3b7.js"
+    "static/js/main.1344a0f8.js"
   ]
 }
