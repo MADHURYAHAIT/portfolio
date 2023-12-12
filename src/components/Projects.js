@@ -20,7 +20,7 @@ export default function Projects() {
 
                
                     <div class="view overlay">
-                    <img src="./img/cb.png" alt="Canvas Logo" />
+                    <img src="./img/cb.png" alt="ClassBook Landing Page" />
                     <a href="#!">
                         <div class="mask rgba-white-slight"></div>
                     </a>
@@ -44,7 +44,7 @@ export default function Projects() {
 
                   
                     <div class="view overlay">
-                    <img src="./img/gln.png" alt="Canvas Logo" />
+                    <img src="./img/gln.png" alt="Gladiolus Language Nectar Landing Page" />
                     <a href="#!">
                         <div class="mask rgba-white-slight"></div>
                     </a>
@@ -74,7 +74,7 @@ export default function Projects() {
 
                     {/*Card image*/}
                     <div class="view overlay">
-                    <img src="./img/quiz.png" alt="Canvas Logo" />
+                    <img src="./img/quiz.png" alt="Quiz App" />
                     <a href="#!">
                         <div class="mask rgba-white-slight"></div>
                     </a>
@@ -103,7 +103,7 @@ export default function Projects() {
 
                     {/*Card image*/}
                     <div class="view overlay">
-                    <img src="./img/portfolio.png" alt="Canvas Logo" />
+                    <img src="./img/portfolio.png" alt="Portfolio App" />
                     <a href="#!">
                         <div class="mask rgba-white-slight"></div>
                     </a>
@@ -119,7 +119,6 @@ export default function Projects() {
                     {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
                     <a href="https://madhuryahait.github.io/portfolio/"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
                    <a href="https://github.com/MADHURYAHAIT/portfolio"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
-
                     </div>
 
                 </div>
@@ -132,7 +131,7 @@ export default function Projects() {
 
                     {/*Card image*/}
                     <div class="view overlay">
-                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/14.jpg" alt="Card image cap"/>
+                    <img src="./img/game.png" alt="Rocket Game Photo" />
                     <a href="#!">
                         <div class="mask rgba-white-slight"></div>
                     </a>
@@ -142,11 +141,12 @@ export default function Projects() {
                     <div class="card-body">
 
                     {/*Title*/}
-                    <h4 class="card-title">5 Card title</h4>
+                    <strong className='text-altdeep'><h1>Asteroid</h1></strong>
                     {/*Text*/}
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">A game made using Lua which rewards point on destroying asteroids.</p>
                     {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
-                    <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+                    <a href="https://github.com/MADHURYAHAIT/Shoot-Asteroid-Rocket-Game"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
+                   <a href="https://github.com/MADHURYAHAIT/Shoot-Asteroid-Rocket-Game"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
 
                     </div>
 
