@@ -23,8 +23,8 @@ function App() {
         <div id="main">
           <Navbar/>
           <Content/>
+          <Projects/>
           <Skillset/>
-          {/* <Projects/> */}
           <Music/>
           <Contact/>
          

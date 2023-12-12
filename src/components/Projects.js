@@ -7,8 +7,170 @@ export default function Projects() {
 
     return (
     
-        <div className='text-center heading-text'>
-                 <div className='Title' style={{transform: 'translateX(-50%) ',left:'50%',position:'absolute'}}>Projects</div>
+        <div className='text-center heading-text' id='projects'>
+            <div className='Title' style={{transform: 'translateX(-50%) ',left:'50%',position:'absolute'}}>Projects</div>
+            
+        <div class="container dabba">
+
+
+            <div class="card-deck row">
+                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
+                <div class="card">
+
+                    {/*Card image*/}
+                    <div class="view overlay">
+                    <img src="./img/cb.png" alt="Canvas Logo" />
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                    </div>
+
+                    {/*Card content*/}
+                    <div class="card-body">
+
+                    {/*Title*/}
+                    <h4 class="card-title">1 Card title</h4>
+                    {/*Text*/}
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
+                    <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+
+                    </div>
+
+                </div>
+                {/* Card */}
+                </div>
+
+                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
+                {/* Card */}
+                <div class="card mb-4">
+
+                    {/*Card image*/}
+                    <div class="view overlay">
+                    <img src="./img/gln.png" alt="Canvas Logo" />
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                    </div>
+
+                    {/*Card content*/}
+                    <div class="card-body">
+
+                    {/*Title*/}
+                    <h4 class="card-title">2 Card title</h4>
+                    {/*Text*/}
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
+                    <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+
+                    </div>
+
+                </div>
+                {/* Card */}
+                </div>
+
+                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
+                {/* Card */}
+                <div class="card mb-4">
+
+                    {/*Card image*/}
+                    <div class="view overlay">
+                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/15.jpg" alt="Card image cap"/>
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                    </div>
+
+                    {/*Card content*/}
+                    <div class="card-body">
+
+                    {/*Title*/}
+                    <h4 class="card-title">3 Card title</h4>
+                    {/*Text*/}
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
+                    <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+
+                    </div>
+
+                </div>
+                {/* Card */}
+                </div>
+
+                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
+                {/* Card */}
+                <div class="card">
+
+                    {/*Card image*/}
+                    <div class="view overlay">
+                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/16.jpg" alt="Card image cap"/>
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                    </div>
+
+                    {/*Card content*/}
+                    <div class="card-body">
+
+                    {/*Title*/}
+                    <h4 class="card-title">4 Card title</h4>
+                    {/*Text*/}
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
+                    <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+
+                    </div>
+
+                </div>
+                {/* Card */}
+                </div>
+                
+                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
+                {/* Card */}
+                <div class="card mb-4">
+
+                    {/*Card image*/}
+                    <div class="view overlay">
+                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/14.jpg" alt="Card image cap"/>
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                    </div>
+
+                    {/*Card content*/}
+                    <div class="card-body">
+
+                    {/*Title*/}
+                    <h4 class="card-title">5 Card title</h4>
+                    {/*Text*/}
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
+                    <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+
+                    </div>
+
+                </div>
+                {/* Card */}
+                </div>
+
+                
+                
+                
+                </div>
+                {/* Card deck */}
+                
+                </div>
+
+        </div>
+
+
+)
+}
+
+
+
+
+                 {/*
                 <main>
                     <ul id="cards">
                         <li class="Aboutcard" id="card_1">
@@ -17,23 +179,19 @@ export default function Projects() {
                                     <h2>Hello </h2>
                                     <small className="typing-text"><strong className='welcome-heaading '> <span className="typing-element"/></strong> </small>
                                     <div className="container d-flex" id='head'>
-                                {/* <div className="d-flex flex-column mx-auto mt-5 ">
+                                <div className="d-flex flex-column mx-auto mt-5 ">
                                 <div className="display-3 mt-5 welcome-text" >Hey There, I'm</div>
                                 <div className="fs-1">I'm <strong className='welcome-text'>Madhurya Hait</strong></div>
-                                </div> */}
+                                </div>
                                 
-                        {/* <div className="p-4 " id='desk-img'>
-
-                            <img src='./img/background_img.png' alt="" className="img-fluid profile-pic" />
-                        </div> */}
+                       
                         </div>
                                    
                                     <p>Allow me to introduce myself. I am <i>Madhurya Hait </i>, a student of age 20 of Jamshedpur, Jharkhand .
                                         With a relentless drive for excellence and an insatiable curiosity for emerging technologies, I have dedicated a lot of time understanding the social media trends & expertise that laid the foundation for the ambitious project I am about to unveil !</p>
                                 </div>
                                 <figure>
-                                    {/* <img src='./img/cb.png' alt="Canvas Logo" /> */}
-
+                                
                                 </figure>
                             </div>
                         </li>
@@ -72,7 +230,7 @@ export default function Projects() {
                                     </p>
                                 </div>
                                 <figure>
-                                    {/* <img src={img1} alt="Image description" /> */}
+                                 
                                 </figure>
                             </div>
                         </li>
@@ -80,7 +238,7 @@ export default function Projects() {
                 </main>
 
 
-                {/* <aside>
+                <aside>
                     <h3><i style={{ color: 'wheat' }}>Description</i></h3>
                     <p>
                         People cannot be trusted these days whether it be buying goods from the shopkeeper, choosing a cab driver or getting into a relationship. And present itself nicely to serve present and not nicely to others.
@@ -108,6 +266,4 @@ export default function Projects() {
                     
                 </aside> */}
 
-       </div>
-    )
-}
+   

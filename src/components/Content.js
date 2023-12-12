@@ -88,14 +88,14 @@ useEffect(() => {
 
 
 
-              <div class="hero-container" data-aos="fade-up" id="home">
+              <div class="hero-container" data-aos="fade-up"  >
                 <img src='./img/background_img.png' alt="" className="img-fluid profile-pic" id="desk-img" />
               </div>
       </section>   
       
       <div className="container">
      
-            <div className='About'>
+            <div className='About' >
 
 
             <div id='scrollicon'>
@@ -155,7 +155,7 @@ useEffect(() => {
           <div className='welcome-text fs-2 text-center heading-text' >
 
            <strong > Who am I ? </strong>
-           <small className="typing-text"><strong className='welcome-heaading '> <span className="typing-element"/></strong> </small>
+           <small className="typing-text" id="home"><strong className='welcome-heaading '> <span className="typing-element"/></strong> </small>
           </div>
         </div>
 
