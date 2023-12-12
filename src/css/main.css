@@ -725,19 +725,19 @@ a img:hover {
     background-color: white;
 } */
 
-.kKHyNi,.IiDjp{
+.kKHyNi,.IiDjp,.cKHpqg,.bZdSeH{
     transition:all 400ms ease;
     box-shadow:none;
     display: none;
    
 }
 
-.hehpda{
+.hehpda,.gYcGtH{
     font-size: 3.6em !important;
     background-color: transparent !important;
     color: rgba(255, 255, 255, 0.595) !important;
 }
-.hehpda:hover{
+.hehpda:hover , .gYcGtH:hover{
     background-color: transparent !important;
 }
 
@@ -746,6 +746,10 @@ a img:hover {
     box-shadow: none;
 }
 
+.gYcGt:Hhover:enabled, .gYcGtH:focus:enabled {
+    background-color: transparent;
+    box-shadow: none;
+}
 
 /* Contacts */
 
