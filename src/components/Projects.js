@@ -1,6 +1,7 @@
 import React from 'react';
 import 'aos/dist/aos.css'
-
+import { IoCodeSlashSharp } from "react-icons/io5";
+import { LuEye } from "react-icons/lu";
 
 export default function Projects() {
 
@@ -15,25 +16,21 @@ export default function Projects() {
 
             <div class="card-deck row">
                 <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
-                <div class="card">
+                <div class="card mb-4">
 
-                    {/*Card image*/}
+               
                     <div class="view overlay">
                     <img src="./img/cb.png" alt="Canvas Logo" />
                     <a href="#!">
                         <div class="mask rgba-white-slight"></div>
                     </a>
                     </div>
-
-                    {/*Card content*/}
                     <div class="card-body">
-
-                    {/*Title*/}
-                    <h4 class="card-title">1 Card title</h4>
-                    {/*Text*/}
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
-                    <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+                    <strong className='text-altdeep'><h1>classbook</h1></strong>
+                    <p class="card-text">The Ultimate rating social media app designed & developed by me.</p>
+            
+                   <a href="#"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
+                   <a href="https://www.youtube.com"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
 
                     </div>
 
@@ -43,9 +40,9 @@ export default function Projects() {
 
                 <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
                 {/* Card */}
-                <div class="card mb-4">
+                <div class="card ">
 
-                    {/*Card image*/}
+                  
                     <div class="view overlay">
                     <img src="./img/gln.png" alt="Canvas Logo" />
                     <a href="#!">
@@ -53,15 +50,17 @@ export default function Projects() {
                     </a>
                     </div>
 
-                    {/*Card content*/}
+                  
                     <div class="card-body">
 
-                    {/*Title*/}
-                    <h4 class="card-title">2 Card title</h4>
-                    {/*Text*/}
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
-                    <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+                   
+                    <strong className='text-altdeep'><h1>GLN website</h1></strong>
+                    
+                    <p class="card-text">Made a custom commercial website for Gladiolus Language Nectar.</p>
+                   
+                    <a href="#"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
+                   <a href="https://www.youtube.com"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
+                    
 
                     </div>
 
