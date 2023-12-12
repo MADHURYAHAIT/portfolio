@@ -152,7 +152,35 @@ export default function Projects() {
                 {/* Card */}
                 </div>
 
-                
+                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
+                {/* Card */}
+                <div class="card">
+
+                    {/*Card image*/}
+                    <div class="view overlay">
+                    <img src="./img/login.png" alt="Login App" />
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                    </div>
+
+                    {/*Card content*/}
+                    <div class="card-body">
+
+                    {/*Title*/}
+                     <strong className='text-altdeep'><h1>Login System</h1></strong>
+                    {/*Text*/}
+                    <p class="card-text">A Login / Authentication system made using Django fully from scratch.</p>
+                    {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
+                    <a href="https://github.com/MADHURYAHAIT/Web-Login-System"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
+                   <a href="https://github.com/MADHURYAHAIT/Web-Login-System"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
+
+                    </div>
+
+                </div>
+                {/* Card */}
+                </div>
+
                 
                 
                 </div>
