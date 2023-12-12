@@ -276,7 +276,7 @@ hr{
     /* Remove default bullets */
 }
 .vertical-timeline-element-content-arrow{
-    border-right: 20px solid rgb(26, 26, 26)!important;
+    border-right: 10px solid rgb(26, 26, 26)!important;
 }
 #mydetails li {
     padding-bottom: 1rem;

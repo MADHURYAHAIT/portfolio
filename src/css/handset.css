@@ -98,11 +98,14 @@
 
     .carousel iframe{
         width: 100%;
-        height: 180px;
+        height: 140px;
+       
+       
     }
     .wrapper .carousel {
-        margin: auto;
-        padding: 30px 15px;
+        margin: 0px;
+        padding: 40px 5px;
+       
     }
     
 
@@ -153,7 +156,7 @@
     }
 
     .hp-logo-right {
-        margin-bottom: -0.8ch;
+        margin-bottom: -0.9ch;
         font-size: 100px !important;
     }
     .ytp-cued-thumbnail-overlay-image {
