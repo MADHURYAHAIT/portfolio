@@ -36,12 +36,14 @@
         height: 280px;
     }
     .wrapper .carousel {
-       
         margin: auto;
         padding: 20px 15px;
-        
     }
- 
+    .scrolliconn{
+        margin-top:-220px;
+        margin-bottom: 180px;
+        font-size:90px;
+    }
 
 }
 
@@ -97,23 +99,20 @@
     .carousel iframe{
         width: 100%;
         height: 180px;
-        
     }
     .wrapper .carousel {
-       
         margin: auto;
         padding: 30px 15px;
-        
     }
     
 
     .hp-logo-left {
-        margin-top: -70px;
+        margin-top: -40px;
         font-size: 140px;
     }
 
     .hp-logo-right {
-        margin-bottom: -53px;
+        margin-bottom: -20px;
         font-size: 140px;
     }
     .typing-text {
@@ -150,12 +149,12 @@
 
     .hp-logo-left {
         margin-top: -11px;
-        font-size: 100px;
+        font-size: 100px !important;
     }
 
     .hp-logo-right {
-        margin-bottom: -0.8ch;
-        font-size: 100px;
+        margin-bottom: -0.1ch;
+        font-size: 100px !important;
     }
     .ytp-cued-thumbnail-overlay-image {
         width: 100% !important;

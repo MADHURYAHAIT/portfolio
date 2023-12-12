@@ -18,8 +18,6 @@ export default function Projects() {
             <div class="card-deck row">
                 <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
                 <div class="card mb-4">
-
-               
                     <div class="view overlay">
                     <img src="./img/cb.png" alt="ClassBook Landing Page" />
                     <a href="#!">
@@ -29,9 +27,8 @@ export default function Projects() {
                     <div class="card-body">
                     <strong className='text-altdeep'><h1>classbook</h1></strong>
                     <p class="card-text">The Ultimate rating social media app designed & developed by me.</p>
-            
-                   <a href="https://class-book.vercel.app"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
-                   <a href="https://github.com/MADHURYAHAIT/ClassBook"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
+                    <a href="https://class-book.vercel.app"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
+                    <a href="https://github.com/MADHURYAHAIT/ClassBook"> <button type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
 
                     </div>
 

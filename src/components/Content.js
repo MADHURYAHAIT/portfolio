@@ -99,7 +99,7 @@ useEffect(() => {
 
 
             <div id='scrollicon'>
-              <FaAngleDoubleDown style={{marginTop:'-60px', fontSize:'120px'}}/>
+              <FaAngleDoubleDown className='scrolliconn'/>
             </div>
             <div className="d-flex flex-column mx-auto mt-5 ">
                   {/* <div className="display-3 mt-5 welcome-heading" >Hey There, I'm</div>
