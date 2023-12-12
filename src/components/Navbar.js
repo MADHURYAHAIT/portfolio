@@ -75,7 +75,7 @@ export default function Navbar() {
           <a className="nav-link" href="#contact">Contact</a>
         </li>
         <li className="nav-item px-2">
-          <a className="nav-link" href="https://drive.google.com/file/d/1p3-WJZ-VViv5MDXe5CfMAbPaYaxFuBpK/view?usp=sharing" target="_blank">Resume</a>
+          <a className="nav-link" href="#" target="_blank">Resume</a>
         </li>
       </ul>      
       </div>
@@ -110,7 +110,8 @@ export default function Navbar() {
           <a className="nav-link" href="#contact">Contact</a>
         </li>
         <li className="nav-item px-2">
-          <a className="nav-link" href="https://drive.google.com/file/d/1p3-WJZ-VViv5MDXe5CfMAbPaYaxFuBpK/view?usp=sharing" target="_blank">Resume</a>
+          <a className="nav-link" href="#" target="_blank">Resume</a> 
+          {/* https://drive.google.com/file/d/1p3-WJZ-VViv5MDXe5CfMAbPaYaxFuBpK/view?usp=sharing */}
         </li>
       </ul>      
       </div>

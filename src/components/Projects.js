@@ -29,8 +29,8 @@ export default function Projects() {
                     <strong className='text-altdeep'><h1>classbook</h1></strong>
                     <p class="card-text">The Ultimate rating social media app designed & developed by me.</p>
             
-                   <a href="#"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
-                   <a href="https://www.youtube.com"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
+                   <a href="https://class-book.vercel.app"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
+                   <a href="https://github.com/MADHURYAHAIT/ClassBook"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
 
                     </div>
 
@@ -58,8 +58,8 @@ export default function Projects() {
                     
                     <p class="card-text">Made a custom commercial website for Gladiolus Language Nectar.</p>
                    
-                    <a href="#"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
-                   <a href="https://www.youtube.com"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
+                    <a href="https://madhuryahait.github.io/GLADIOLUS-LANGUAGE-NECTAR-WEBSITE/"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
+                   <a href="https://github.com/MADHURYAHAIT/GLADIOLUS-LANGUAGE-NECTAR-WEBSITE"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
                     
 
                     </div>
@@ -74,7 +74,7 @@ export default function Projects() {
 
                     {/*Card image*/}
                     <div class="view overlay">
-                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/15.jpg" alt="Card image cap"/>
+                    <img src="./img/quiz.png" alt="Canvas Logo" />
                     <a href="#!">
                         <div class="mask rgba-white-slight"></div>
                     </a>
@@ -84,11 +84,12 @@ export default function Projects() {
                     <div class="card-body">
 
                     {/*Title*/}
-                    <h4 class="card-title">3 Card title</h4>
+                    <strong className='text-altdeep'><h1>Quiz Website</h1></strong>
                     {/*Text*/}
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">A class Quiz App which gives your instant points after the quiz ends.</p>
                     {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
-                    <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+                    <a href="https://madhuryahait.github.io/GLADIOLUS-LANGUAGE-NECTAR-WEBSITE/portfolio.html"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
+                   <a href="https://github.com/MADHURYAHAIT/GLADIOLUS-LANGUAGE-NECTAR-WEBSITE"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
 
                     </div>
 
@@ -102,7 +103,7 @@ export default function Projects() {
 
                     {/*Card image*/}
                     <div class="view overlay">
-                    <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Others/images/16.jpg" alt="Card image cap"/>
+                    <img src="./img/portfolio.png" alt="Canvas Logo" />
                     <a href="#!">
                         <div class="mask rgba-white-slight"></div>
                     </a>
@@ -112,11 +113,12 @@ export default function Projects() {
                     <div class="card-body">
 
                     {/*Title*/}
-                    <h4 class="card-title">4 Card title</h4>
+                    <strong className='text-altdeep'><h1>Portfolio</h1></strong>
                     {/*Text*/}
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">A Perfect Portfolio website representing all my skills and experiences</p>
                     {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
-                    <button type="button" class="btn btn-light-blue btn-md">Read more</button>
+                    <a href="https://madhuryahait.github.io/portfolio/"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
+                   <a href="https://github.com/MADHURYAHAIT/portfolio"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
 
                     </div>
 
