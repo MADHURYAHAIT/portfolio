@@ -10,7 +10,7 @@ export default function Projects() {
     return (
     
         <div className='text-center heading-text '  id='projects'>
-            <div className='Title' style={{transform: 'translateX(-50%) ',left:'50%',position:'absolute'}}> Projects</div>
+            <div className='Title' data-aos="fade-right" style={{transform: 'translateX(-50%) ',left:'50%',position:'absolute'}}> Projects</div>
             
         <div class="container dabba">
 

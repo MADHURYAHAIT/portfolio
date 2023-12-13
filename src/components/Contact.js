@@ -50,44 +50,7 @@ export default function Contact() {
                         </div>
 
                         </div>
-                       
-                        {/* <div class="row" >
-
-                            <div class="col-sm-12">
-                                <div class="info-box" style={{paddingTop:'25px',paddingBottom:'4%',border:'0px'}}>
-                                    <h2>  MY <strong className='welcome-text' >SOCIALS</strong></h2>
-                                    <hr/>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="row" style={{paddingBottom:'8%', border:'0px'}}>
-
-                          
-                                <div class="info-box" style={{border:'0px'}}>
-                                <div className="social" >
-                                <div class="col-sm-10">
-            
-                                            <a href="https://www.facebook.com/profile.php?id=100076243074598" target="_blank">
-                                                <FaSquareFacebook className='Sicon'/>
-                                            </a>
-                                        
-                                            <a href="https://www.instagram.com/pooranjoyz_.ig/" target="_blank">
-                                               <FaInstagram className='Sicon'/>
-                                            </a>
-                                       
-                                            <a href="https://www.linkedin.com/in/pooranjoy-bhattacharya-baa23721a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6TjHse3sTvqtMyPLyupHBQ%3D%3D" target="_blank">
-                                                <FaLinkedin className='Sicon'/>
-                                            </a>
-                                        
-                                            <a href="https://github.com/pooranjoyb" target="_blank">
-                                                <FaGithubSquare className='Sicon'/>
-                                            </a>
-                                    </div>
-                                
-                                </div>
-                            </div>
-                        </div> */}
+                    
                     </div>
                 </div>
                     {/* <a href="#top" style={{ color: 'wheat' ,display: 'flex', flexDirection:'column', alignItems: 'center',paddingBottom:'2%',paddingTop:'2%'}}>

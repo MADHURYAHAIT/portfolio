@@ -102,28 +102,11 @@ useEffect(() => {
               <FaAngleDoubleDown className='scrolliconn'/>
             </div>
             <div className="d-flex flex-column mx-auto mt-5 ">
-                  {/* <div className="display-3 mt-5 welcome-heading" >Hey There, I'm</div>
-                  <div className="fs-1">My<strong className='welcome-heading'>Madhurya Hait</strong></div> */}
-            
            
-              <div className='hp-logo-left' data-aos="fade-left">MADH</div>
-              <div className='hp-logo-right' data-aos="fade-right">URYA</div >
+              <div className='hp-logo-left' >MADH</div>
+              <div className='hp-logo-right' >URYA</div >
 
              </div>
-          
-{/* 
-<header>
-    <div>
-        <div class='Aboutlogo' >
-            <BiSolidUserPin style={{ paddingTop: '19px', fontSize: '130px', color: 'rgb(222, 49, 10)' }} />
-            <h1>class</h1><h1 className='book'>book</h1>
-        </div>
-        <div class='scroldwn'>
-            <p style={{ color: 'wheat', paddingTop: '250px' }}>Scroll down</p><br />
-            <RiArrowDownDoubleLine style={{ paddingTop: '-10px', fontSize: '90px', color: 'wheat' }} />
-        </div>
-    </div>
-</header> */}
 
 
 
@@ -131,30 +114,11 @@ useEffect(() => {
           </div>
 
 
-
-
-
-
-
-
-
-
-        {/* <div className="container d-flex" id='head'>
-          <div className="d-flex flex-column mx-auto mt-5 ">
-            <div className="display-3 mt-5 welcome-text" >HELLO THERE!</div>
-            <div className="fs-1">I'm <strong className='welcome-text'>Madhurya Hait</strong></div>
-            <small className="typing-text">I'm a <strong className='welcome-text'> <span className="typing-element"/> </strong> </small>
-          </div>
-          <div className="p-4 " id='desk-img'>
-
-            <img src='./img/background_img.png' alt="" className="img-fluid profile-pic" />
-          </div>
-        </div> */}
     
         <div className="container d-flex flex-column mytext" id='intro'>
           <div className='welcome-text fs-2 text-center heading-text' >
 
-           <strong > Who am I ? </strong>
+           <strong data-aos="fade-up" > Who am I ? </strong>
            <small className="typing-text" id="home"><strong className='welcome-heaading '> <span className="typing-element"/></strong> </small>
           </div>
         </div>
