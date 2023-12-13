@@ -9,14 +9,14 @@ export default function Projects() {
 
     return (
     
-        <div className='text-center heading-text' id='projects'>
+        <div className='text-center heading-text '  id='projects'>
             <div className='Title' style={{transform: 'translateX(-50%) ',left:'50%',position:'absolute'}}> Projects</div>
             
         <div class="container dabba">
 
 
             <div class="card-deck row">
-                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
+                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4" data-aos="fade-up">
                 <div class="card mb-4">
                     <div class="view overlay">
                     <img src="./img/cb.png" alt="ClassBook Landing Page" />
@@ -36,7 +36,7 @@ export default function Projects() {
                 {/* Card */}
                 </div>
 
-                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
+                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4" data-aos="fade-up">
                 {/* Card */}
                 <div class="card ">
 
@@ -66,7 +66,7 @@ export default function Projects() {
                 {/* Card */}
                 </div>
 
-                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
+                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4" data-aos="fade-up">
                 {/* Card */}
                 <div class="card mb-4">
 
@@ -95,7 +95,7 @@ export default function Projects() {
                 {/* Card */}
                 </div>
 
-                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
+                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4" data-aos="fade-up">
                 {/* Card */}
                 <div class="card">
 
@@ -123,7 +123,7 @@ export default function Projects() {
                 {/* Card */}
                 </div>
                 
-                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
+                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4" data-aos="fade-up">
                 {/* Card */}
                 <div class="card mb-4">
 
@@ -152,7 +152,7 @@ export default function Projects() {
                 {/* Card */}
                 </div>
 
-                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4">
+                <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4" data-aos="fade-up">
                 {/* Card */}
                 <div class="card">
 

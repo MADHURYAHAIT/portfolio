@@ -18,16 +18,16 @@ export default function Music() {
           useClassNames: true,
           initClassName: false,
           animatedClassName: 'animated',
-          duration: 800
+          duration: 1700
         });
       }, [])
     return (
         <>
-            <div className="container d-flex flex-column mytext" data-aos="fade-right" data-aos-offset="0" 
+            <div className="container d-flex flex-column mytext" data-aos="fade-up" data-aos-offset="0" 
         data-aos-easing="ease-in-out" id='music'>
             
                 <div className='welcome-text fs-2 text-center heading-text'>
-                <div className='Title'>MUSIC</div>
+                <div className='Title' >MUSIC</div>
                     <hr/>
                     FEATURED <strong >Music Videos</strong>
                 </div>
@@ -54,7 +54,7 @@ export default function Music() {
                     </Carousel>
                 </div>
                 <br/>
-                <div className='welcome-text fs-2 text-center heading-text'>
+                <div className='welcome-text fs-2 text-center heading-text' data-aos="fade-up">
                     Originals on <strong >Spotify</strong>
                 </div>
                  <div className='music crd'>

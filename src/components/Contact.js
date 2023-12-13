@@ -7,7 +7,7 @@ export default function Contact() {
     return (
         <>
         
-            <div className="container d-flex flex-column mytext" id='contact'>
+            <div className="container d-flex flex-column mytext" id='contact' data-aos="fade-up">
                 
                 <div className='fs-2 pb-5 text-center heading-text welcome-text'>
                 <div className='Title'>Contacts</div>

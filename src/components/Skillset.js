@@ -15,7 +15,7 @@ export default function Skillset() {
             useClassNames: true,
             initClassName: false,
             animatedClassName: 'animated',
-            duration: 800
+            duration: 1800
         });
       }, [])
       

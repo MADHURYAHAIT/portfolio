@@ -13,7 +13,6 @@ import 'react-vertical-timeline-component/style.min.css';
 import '../css/about.css'
 import { FaLinkedinIn } from "react-icons/fa6";
 
-
 export default function Content() {
 
 useEffect(() => {
@@ -33,6 +32,7 @@ useEffect(() => {
             typed.destroy();
         };
 }, []);
+
 
 
   return (
@@ -106,8 +106,8 @@ useEffect(() => {
                   <div className="fs-1">My<strong className='welcome-heading'>Madhurya Hait</strong></div> */}
             
            
-              <div className='hp-logo-left'>MADH</div>
-              <div className='hp-logo-right'>URYA</div >
+              <div className='hp-logo-left' data-aos="fade-left">MADH</div>
+              <div className='hp-logo-right' data-aos="fade-right">URYA</div >
 
              </div>
           
