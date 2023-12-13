@@ -154,6 +154,7 @@
         margin-top: -11px;
         font-size: 100px !important;
     }
+    
 
     .hp-logo-right {
         margin-bottom: -0.9ch;
@@ -163,6 +164,18 @@
         width: 100% !important;
         height: 20px !important;
     
+    }
+    .music{
+        padding-left: 0px;
+        padding-right: 0px;
+        margin: 5px !important;
+       
+    }
+    .music iframe{
+       
+       
+        padding:20px;
+       
     }
 
 }
