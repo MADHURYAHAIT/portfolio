@@ -85,9 +85,6 @@ useEffect(() => {
       
       </h1>
 
-
-
-
               <div class="hero-container" data-aos="fade-up"  >
                 <img src='./img/background_img.png' alt="" className="img-fluid profile-pic" id="desk-img" />
               </div>
@@ -102,10 +99,10 @@ useEffect(() => {
               <FaAngleDoubleDown className='scrolliconn'/>
             </div>
             <div className="d-flex flex-column mx-auto mt-5 ">
-           
+          
               <div className='hp-logo-left' >MADH</div>
               <div className='hp-logo-right' >URYA</div >
-
+             
              </div>
 
 
