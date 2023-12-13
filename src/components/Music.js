@@ -53,6 +53,15 @@ export default function Music() {
                         </div>
                     </Carousel>
                 </div>
+                <br/>
+                <div className='welcome-text fs-2 text-center heading-text'>
+                    Originals on <strong >Spotify</strong>
+                </div>
+                 <div className='music crd'>
+                        <iframe src="https://open.spotify.com/embed/artist/7kmVD4O1zzoLBlpcabMkWo?utm_source=generator&theme=0" style={{borderRadius:"12px", width:"100%", height:"352" ,frameBorder:"0", allowfullscreen:"" ,allow:"autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" ,loading:"lazy"}}></iframe>        
+                </div>
+
+                        
             </div>
         </>
     )

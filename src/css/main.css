@@ -430,7 +430,7 @@ hr{
     max-width: 1200px;
     margin: auto;
     padding: 23px 18px;
-    border-radius: 20px;
+    border-radius: 15px;
     
 }
 
@@ -876,3 +876,27 @@ a{
     background-color: #FC1503 !important;
     color: white !important;
   }
+
+
+.music{
+    padding: 30px;
+    line-height: 25px;
+    text-align: center;
+    margin: 20px 40px;
+    
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    
+}
+
+.music iframe{
+    max-width: 850px;
+    height: 450px;
+    border-radius: 6px;
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255,255,255,0)) !important;
+    backdrop-filter: blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.7);
+    padding: 25px;
+}

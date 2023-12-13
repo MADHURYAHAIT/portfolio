@@ -26,7 +26,7 @@ export default function Contact() {
                             <div class="info-box">
                             <FaSearchLocation className='icon'/> 
                             <h3>Address</h3>
-                                <p>Pradhan Colony, Zone no.- 3, Jamshedpur, Jharkhand</p>
+                                <p> Baridih, Zone no.- 3, Jamshedpur, Jharkhand</p>
                             </div>
                         </div>
 
