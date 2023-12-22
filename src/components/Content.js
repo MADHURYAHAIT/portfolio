@@ -34,7 +34,6 @@ useEffect(() => {
 }, []);
 
 
-
   return (
     <>
       <div className='Linkdin'>
@@ -80,9 +79,8 @@ useEffect(() => {
         WELCOMEWELCOMEWELCOMEWELCOMEWELCOMEWELCOMEWELCOME<br/>
         TOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOTOT<br/>
         MYMYMYMYMYMYMYMYMYMYMYMYMYMYMYMYMYMYMYMYMYMYMYMYMYMY<br/>
-        PORTFOLIOPORTFOLIOPORTFOLIOPORTFOLIOPORTFOLIOPORTFOLIO<br/>
-     
-      
+        PORTFOLIOPORTFOLIOPORTFOLIOPORTFOLIOPORTFOLIOPORTFOLIO<br/> 
+         
       </h1>
 
               <div class="hero-container" data-aos="fade-up"  >
@@ -104,10 +102,6 @@ useEffect(() => {
               <div className='hp-logo-right' >URYA</div >
              
              </div>
-
-
-
-
           </div>
 
 
