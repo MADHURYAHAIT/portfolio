@@ -198,11 +198,8 @@ useEffect(() => {
               I'm a passionate <strong className='text-altdeep'>Singer / Song-Writer </strong> & <strong className='text-altdeep'>Music Producer</strong> <br/>
               I'hv <strong className='text-altdeep'>been producing music for 8 years now</strong> I have mastered softwares like <strong className='text-altdeep'>Logic Pro X , Fl Studio , Filmora , Final Cut Pro </strong>.
               I also run a youtube channel with an artist account and have <strong className='text-altdeep'>over 25k subscribers</strong> on it. I have my artist account on 100+ music platforms like <strong className='text-altdeep'>Spotify , Apple Music , Amazon Music , JioSaavn etc</strong>
-
               </p>
             </VerticalTimelineElement>
-
-
           </VerticalTimeline>
          
 
