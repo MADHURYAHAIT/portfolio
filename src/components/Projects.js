@@ -101,7 +101,7 @@ export default function Projects() {
 
                     {/*Card image*/}
                     <div class="view overlay">
-                    <img src="./img/portfolio.png" alt="Portfolio App" />
+                    <img src="./img/cardiocare.png" alt="Cardiocare App" />
                     <a href="#!">
                         <div class="mask rgba-white-slight"></div>
                     </a>
@@ -111,12 +111,12 @@ export default function Projects() {
                     <div class="card-body">
 
                     {/*Title*/}
-                    <strong className='text-altdeep'><h1>Portfolio</h1></strong>
+                    <strong className='text-altdeep'><h1>Cardiocare</h1></strong>
                     {/*Text*/}
-                    <p class="card-text">A Perfect Portfolio website representing all my skills and experiences</p>
+                    <p class="card-text">A Machine Learning based Heart Attack prediction Web Application. </p>
                     {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
-                    <a href="https://madhuryahait.github.io/portfolio/"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
-                   <a href="https://github.com/MADHURYAHAIT/portfolio"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
+                    <a href="https://cardiocare-ptqf.onrender.com/"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
+                   <a href="https://github.com/MADHURYAHAIT/Heart-Attack-Prediction"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
                     </div>
 
                 </div>
