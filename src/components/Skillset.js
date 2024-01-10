@@ -6,6 +6,7 @@ import { FaJava,FaReact,FaGithub,FaNodeJs} from "react-icons/fa";
 import { DiJavascript } from "react-icons/di";
 import { SiMysql } from "react-icons/si";
 import { SiPandas,SiNumpy } from "react-icons/si";
+import { SiFlask } from "react-icons/si";
 
 
 
@@ -63,8 +64,12 @@ export default function Skillset() {
                        <SiPandas className='ico'/>
                     </div>
                     <div className="icons col-md-2 col-4">
-                        <img src="./icons/firebase.png" alt="Firebase" />
+                        <SiFlask className='ico'/>
                     </div>
+
+                    {/* <div className="icons col-md-2 col-4">
+                        <img src="./icons/firebase.png" alt="Firebase" />
+                    </div> */}
                     <div className="icons col-md-2 col-4">
                         {/* <img src="./icons/mysql.png" alt="MySQL" /> */}
                         <SiMysql className='ico'/>
