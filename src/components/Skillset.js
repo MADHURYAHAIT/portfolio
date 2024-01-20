@@ -66,7 +66,6 @@ export default function Skillset() {
                     <div className="icons col-md-2 col-4">
                         <SiFlask className='ico'/>
                     </div>
-
                     {/* <div className="icons col-md-2 col-4">
                         <img src="./icons/firebase.png" alt="Firebase" />
                     </div> */}
