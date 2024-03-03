@@ -177,9 +177,10 @@ useEffect(() => {
               <h3 className="vertical-timeline-element-title"> <strong className='text-altdeep'>Programes</strong></h3>
               <h4 className="vertical-timeline-element-subtitle">& Achievements</h4>
               <p>
-              Ranked <strong className='text-altdeep'>#2</strong> in <strong className='text-altdeep'> Rangoli Making</strong><br/>
-              Made rangoli <strong className='text-altdeep'>in 2023</strong> and was awarded 2nd prize as the winner of the competiton.<br/>
-              Also a Web Developer in <strong className='text-altdeep'>Google Developer Student Club (GDSC)</strong> in Sikkim Manipal Institute of Technology
+              Became one of the<strong className='text-altdeep'>Top 10</strong> Contributors of <strong className='text-altdeep'> Kharagpur Winter of Code 2023 </strong>.<br/>
+              Ranked <strong className='text-altdeep'>#1</strong> in 2022 & <strong className='text-altdeep'>#2</strong> in 2023 in <strong className='text-altdeep'> Rangoli Making competition. </strong><br/>
+              Hosted <strong className='text-altdeep'>4 workshops</strong> in 2023-24 & <strong className='text-altdeep'>taught hundreads</strong> as a GDSC core Web-Developement member.
+            
               </p>
             </VerticalTimelineElement>
             <VerticalTimelineElement
@@ -195,8 +196,8 @@ useEffect(() => {
               <h3 className="vertical-timeline-element-title"> <strong className='text-altdeep'>Hobbies</strong> </h3>
               <h4 className="vertical-timeline-element-subtitle">& Extra Curriculum</h4>
               <p>
-              I'm a passionate <strong className='text-altdeep'>Singer / Song-Writer </strong> & <strong className='text-altdeep'>Music Producer</strong> <br/>
-              I'hv <strong className='text-altdeep'>been producing music for 8 years now</strong> I have mastered softwares like <strong className='text-altdeep'>Logic Pro X , Fl Studio , Filmora , Final Cut Pro </strong>.
+              I'm a passionate <strong className='text-altdeep'>Singer / Song-Writer </strong> & <strong className='text-altdeep'>Music Producer</strong>.
+              I've <strong className='text-altdeep'>been producing music for 7 years now</strong> I have mastered softwares like <strong className='text-altdeep'>Logic Pro X , Fl Studio , Filmora , Final Cut Pro </strong>.
               I also run a youtube channel with an artist account and have <strong className='text-altdeep'>over 25k subscribers</strong> on it. I have my artist account on 100+ music platforms like <strong className='text-altdeep'>Spotify , Apple Music , Amazon Music , JioSaavn etc</strong>
               </p>
             </VerticalTimelineElement>

@@ -16,6 +16,67 @@ export default function Projects() {
 
 
             <div class="card-deck row">
+
+            <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4" data-aos="fade-up">
+                {/* Card */}
+                <div class="card mb-4">
+
+                    {/*Card image*/}
+                    <div class="view overlay">
+                    <img src="./img/nutrisync.png" alt="NutriSync" />
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                    </div>
+
+                    {/*Card content*/}
+                    <div class="card-body">
+
+                    {/*Title*/}
+                    <strong className='text-altdeep'><h1>NutriSync</h1></strong>
+                    {/*Text*/}
+                    <p class="card-text">Your personal calorie monitoring app. Tells calorie content of food from pics.</p>
+                    {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
+                    <a href="https://github.com/MADHURYAHAIT/NutriSync"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
+                   <a href="https://github.com/MADHURYAHAIT/NutriSync"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
+
+                    </div>
+
+                </div>
+                {/* Card */}
+                </div>
+
+
+            <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4" data-aos="fade-up">
+                {/* Card */}
+                <div class="card mb-4">
+
+                    {/*Card image*/}
+                    <div class="view overlay">
+                    <img src="./img/swetify.png" alt="Swetify" />
+                    <a href="#!">
+                        <div class="mask rgba-white-slight"></div>
+                    </a>
+                    </div>
+
+                    {/*Card content*/}
+                    <div class="card-body">
+
+                    {/*Title*/}
+                    <strong className='text-altdeep'><h1>Swetify</h1></strong>
+                    {/*Text*/}
+                    <p class="card-text">An entire music streaming platform with a lot of cool features.</p>
+                    {/* Provides extra visual weight and identifies the primary action in a set of buttons */}
+                    <a href="https://swetify.netlify.app/"> <button type="button" class="category-btn btn-light-blue btn-md"><LuEye className='icon'/></button></a>
+                   <a href="https://github.com/MADHURYAHAIT/Swetify-Music"> <button href="#" type="button" class="category-btn btn-light-blue btn-md"><IoCodeSlashSharp className='icon'/></button></a>
+
+                    </div>
+
+                </div>
+                {/* Card */}
+                </div>
+
+
                 <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4" data-aos="fade-up">
                 <div class="card mb-4">
                     <div class="view overlay">

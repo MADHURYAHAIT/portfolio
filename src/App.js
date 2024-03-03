@@ -27,8 +27,6 @@ function App() {
           <Skillset/>
           <Music/>
           <Contact/>
-         
-          
         <Footer/>
         </div>
     </>
