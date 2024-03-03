@@ -1,7 +1,8 @@
 # Portfolio
 
-Deplpyment link: <a href="madhuryahait.github.io/portfolio/"> madhuryahait.github.io/portfolio/  </a>
+Deplpyment link: 
 
+    madhuryahait.github.io/portfolio/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
