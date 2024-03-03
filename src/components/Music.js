@@ -54,6 +54,7 @@ export default function Music() {
                     </Carousel>
                 </div>
                 <br/>
+               
                 <div className='welcome-text fs-2 text-center heading-text' data-aos="fade-up">
                     Originals on <strong >Spotify</strong>
                 </div>
