@@ -31,7 +31,7 @@ export default function Skillset() {
             data-aos="fade-right" data-aos-offset="0" 
             data-aos-easing="ease-in-out" >
                 <div className='welcome-text fs-2 text-center heading-text'>
-                <div className='Title'>SKILLSET</div>
+                <div className='Title' id="skill">SKILLSET</div>
                 <hr/>
                 <strong style={{fontSize:'25px'}}>MY CODING SKILLS </strong>
                

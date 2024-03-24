@@ -39,6 +39,9 @@ export default function Navbar() {
           <a className="nav-link" href="#projects">Projects</a>
         </li>
         <li className="nav-item px-2">
+          <a className="nav-link" href="#skill">Skills</a>
+        </li>
+        <li className="nav-item px-2">
           <a className="nav-link" href="#music">Music</a>
         </li>
         <li className="nav-item px-2">
@@ -72,6 +75,9 @@ export default function Navbar() {
         </li>
         <li className="nav-item px-2">
           <a className="nav-link" href="#projects">Projects</a>
+        </li>
+        <li className="nav-item px-2">
+          <a className="nav-link" href="#skill">Skills</a>
         </li>
         <li className="nav-item px-2">
           <a className="nav-link" href="#music">Music</a>
