@@ -3,12 +3,16 @@ import Aos from 'aos';
 import { useEffect } from 'react';
 import "aos/dist/aos.css"
 import { FaJava,FaReact,FaGithub,FaNodeJs} from "react-icons/fa";
-import { DiJavascript } from "react-icons/di";
-import { SiMysql } from "react-icons/si";
+import { SiStreamlit } from "react-icons/si";
+import { SiNodemon } from "react-icons/si";
 import { SiPandas,SiNumpy } from "react-icons/si";
 import { SiFlask } from "react-icons/si";
-
-
+import { SiMongodb } from "react-icons/si";
+import { SiExpress } from "react-icons/si";
+import { SiLatex } from "react-icons/si";
+import { GrMysql } from "react-icons/gr";
+import { SiDjango } from "react-icons/si";
+import { SiFramework7 } from "react-icons/si";
 
 export default function Skillset() {
     useEffect(() => {
@@ -66,12 +70,29 @@ export default function Skillset() {
                     <div className="icons col-md-2 col-4">
                         <SiFlask className='ico'/>
                     </div>
-                    {/* <div className="icons col-md-2 col-4">
-                        <img src="./icons/firebase.png" alt="Firebase" />
-                    </div> */}
                     <div className="icons col-md-2 col-4">
-                        {/* <img src="./icons/mysql.png" alt="MySQL" /> */}
-                        <SiMysql className='ico'/>
+                       <SiMongodb className='ico'/>
+                    </div>
+                     <div className="icons col-md-2 col-4">
+                        <SiExpress className='ico'/>
+                    </div> 
+                    <div className="icons col-md-2 col-4">
+                        <SiLatex className='ico'/>
+                    </div>
+                    <div className="icons col-md-2 col-4">
+                        <SiDjango className='ico'/>
+                    </div>
+                    <div className="icons col-md-2 col-4">
+                        <GrMysql className='ico'/>
+                    </div>
+                    <div className="icons col-md-2 col-4">
+                        <SiFramework7 className='ico'/>
+                    </div>
+                    <div className="icons col-md-2 col-4">
+                        <SiNodemon className='ico'/>
+                    </div>
+                    <div className="icons col-md-2 col-4">
+                        <SiStreamlit className='ico'/>
                     </div>
                     <div className="icons col-md-2 col-4">
                         {/* <img src="./icons/github.png" alt="Github" /> */}
