@@ -1,4 +1,11 @@
-const data=[
+const Data=[
+    {
+        img:'./img/ai&ds.png',
+        title:'Departmental Site',
+        desc:'A beautifully designed React site which looks like an operating system.',
+        view:'https://aiandds.vercel.app',
+        code:'https://github.com/MADHURYAHAIT/Department-Website',
+    },
     {
         img:'./img/docuscholar.png',
         title:'DocuScholar',
@@ -21,11 +28,11 @@ const data=[
         code:'https://github.com/MADHURYAHAIT/Swetify-Music',
     },
     {
-        img:'./img/docuscholar.png',
-        title:'DocuScholar',
-        desc:'MERN Stack Chat Web App with a chatbot which gives answers based on pdf input.',
-        view:'https://github.com/MADHURYAHAIT/DocuScholar',
-        code:'https://github.com/MADHURYAHAIT/DocuScholar',
+        img:'./img/cardiocare.png',
+        title:'Cardiocare',
+        desc:'A Machine Learning based Heart Attack prediction Web Application.',
+        view:'https://cardiocare-ptqf.onrender.com/',
+        code:'https://github.com/MADHURYAHAIT/Heart-Attack-Prediction',
     },
     {
         img:'./img/cb.png',
@@ -49,19 +56,12 @@ const data=[
         code:'https://github.com/MADHURYAHAIT/GLADIOLUS-LANGUAGE-NECTAR-WEBSITE',
     },
     {
-        img:'./img/cardiocare.png',
-        title:'Cardiocare',
+        img:'./img/game.png',
+        title:'Asteroid',
         desc:'A Machine Learning based Heart Attack prediction Web Application.',
         view:'https://cardiocare-ptqf.onrender.com/',
         code:'https://github.com/MADHURYAHAIT/Heart-Attack-Prediction',
     },
-    {
-        img:'./img/gln.png',
-        title:'GLN website',
-        desc:'A custom commercial website for the company Gladiolus Language Nectar.',
-        view:'https://madhuryahait.github.io/GLADIOLUS-LANGUAGE-NECTAR-WEBSITE/',
-        code:'https://github.com/MADHURYAHAIT/GLADIOLUS-LANGUAGE-NECTAR-WEBSITE',
-    },
 ]
 
-export default data;
+export default Data;
