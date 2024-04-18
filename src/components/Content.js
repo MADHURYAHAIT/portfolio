@@ -84,7 +84,7 @@ useEffect(() => {
       </h1>
 
               <div class="hero-container" data-aos="fade-up"  >
-                <img src='./img/background_img.png' alt="" className="img-fluid profile-pic" id="desk-img" />
+                <img src='./img/background_img.jpg' alt="" className="img-fluid profile-pic" id="desk-img" />
               </div>
       </section>   
       
