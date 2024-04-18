@@ -108,9 +108,9 @@ export default function Projects() {
 
 
                
-                </div>
+               
 
-            <div class="card-deck row">
+           
             <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4" data-aos="fade-up">
                 <div class="card mb-4">
                     <div class="view overlay">
@@ -191,9 +191,9 @@ export default function Projects() {
                 </div>
 
                
-            </div>
+           
 
-            <div class="card-deck row">
+         
             <div class="col- col-sm-9 col-md-6 col-lg-6 col-xl-4" data-aos="fade-up">
                 {/* Card */}
                 <div class="card">
@@ -280,6 +280,8 @@ export default function Projects() {
                 {/* Card */}
                 </div>
             </div>
+
+
                 <div className='welcome-text fs-2 text-center heading-text' data-aos="fade-up">
                     Google Solution Challenge
                 </div>
