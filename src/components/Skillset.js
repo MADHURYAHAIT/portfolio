@@ -13,6 +13,10 @@ import { SiLatex } from "react-icons/si";
 import { GrMysql } from "react-icons/gr";
 import { SiDjango } from "react-icons/si";
 import { SiFramework7 } from "react-icons/si";
+import { SiFastapi } from "react-icons/si";
+import { SiTensorflow } from "react-icons/si";
+import { IoLogoVercel } from "react-icons/io5";
+import { IoHeartCircle } from "react-icons/io5";
 
 export default function Skillset() {
     useEffect(() => {
@@ -100,6 +104,18 @@ export default function Skillset() {
                     </div>
                     <div className="icons col-md-2 col-4">
                         <img src="./icons/bootstrap.png" alt="Bootstrap" />
+                    </div>
+                    <div className="icons col-md-2 col-4">
+                        <SiFastapi className='ico'/>
+                    </div>
+                    <div className="icons col-md-2 col-4">
+                        <SiTensorflow className='ico'/>
+                    </div>
+                    <div className="icons col-md-2 col-4">
+                        <IoLogoVercel className='ico'/>
+                    </div>
+                    <div className="icons col-md-2 col-4">
+                        <IoHeartCircle className='ico'/>
                     </div>
                 </div>
                 </div>
