@@ -10,7 +10,7 @@ const Data=[
         img:'./img/docuscholar.jpg',
         title:'DocuScholar',
         desc:'MERN Stack Chat Web App with a chatbot which gives answers based on pdf input.',
-        view:'https://github.com/MADHURYAHAIT/DocuScholar',
+        view:'https://docuscholar.vercel.app',
         code:'https://github.com/MADHURYAHAIT/DocuScholar',
     },
     {
