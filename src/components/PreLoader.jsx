@@ -14,7 +14,7 @@ const PreLoader = () => {
   return (
     <div className={`Preloader ${fadeOut ? 'fadeOut' : ''}`}>
 
-<span class="loader"></span>
+    <span class="loader"></span>
         {/* <p>
         Loading Ai&Ds options...
         </p> */}
