@@ -2,7 +2,7 @@
 
 Deplpyment link: 
 
-    madhuryahait.github.io/portfolio/
+   madhuryahait.github.io/portfolio/
 
 
 
