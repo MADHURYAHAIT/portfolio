@@ -3,9 +3,27 @@ import 'aos/dist/aos.css'
 import { IoCodeSlashSharp } from "react-icons/io5";
 import { LuEye } from "react-icons/lu";
 import Data from './Data';
+import { useEffect } from 'react';
+import Aos from 'aos';
+import Carousel from 'react-elastic-carousel';
+
+const breakpoints = [
+    { width: 1, itemsToShow: 1 },
+    { width: 550, itemsToShow: 2 },
+    { width: 768, itemsToShow: 3 },
+    { width: 1200, itemsToShow: 4 },
+];
 
 export default function Projects() {
-
+    
+    useEffect(() => {
+        Aos.init({
+          useClassNames: true,
+          initClassName: false,
+          animatedClassName: 'animated',
+          duration: 1700
+        });
+      }, [])
 
     return (
     
@@ -57,9 +75,22 @@ export default function Projects() {
                 <div className='welcome-text fs-2 text-center heading-text' data-aos="fade-up">
                     Other Cool Project
                 </div>
-                 <div className='music crd'>
-                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/yKFQCqVSJpw?si=2-EPoz_6YELNKOGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+                <div className='wrapper'>
+                    <Carousel className="carousel" breakpoints={breakpoints} transitionMs={1000} enableAutoPlay={false} autoPlaySpeed={3000} >
+
+                        <div className='carousel card'>
+                            <iframe src="https://www.youtube.com/embed/yKFQCqVSJpw?si=2-EPoz_6YELNKOGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        </div>
+                        <div className='carousel card'>
+                            <iframe src="https://www.youtube.com/embed/yKFQCqVSJpw?si=2-EPoz_6YELNKOGk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        </div>
+
+                       
+                    </Carousel>
                 </div>
+
               
                 {/* Card deck */}
                 </div>
