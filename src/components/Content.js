@@ -381,7 +381,15 @@ export default function Content() {
           </VerticalTimelineElement>
 
         </VerticalTimeline>
+        <br/><br/>
+        <div className='welcome-text fs-2 text-center heading-text' data-aos="fade-up">
+                    Google Solution Challenge
+                </div>
+                 <div className='music crd'>
+                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/11ASRgvo8JM?si=jOShVVAPBn9MKV5p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </div>
       </div>
+     
     </>
   );
 }
