@@ -11,6 +11,7 @@ import { SiMongodb } from "react-icons/si";
 import { SiExpress } from "react-icons/si";
 import { SiLatex } from "react-icons/si";
 import { GrMysql } from "react-icons/gr";
+import { TbBrandReactNative } from "react-icons/tb";
 import { SiDjango } from "react-icons/si";
 import { FaSalesforce } from "react-icons/fa";
 import { SiFramework7 } from "react-icons/si";
@@ -18,6 +19,8 @@ import { SiFastapi } from "react-icons/si";
 import { SiTensorflow } from "react-icons/si";
 import { IoLogoVercel } from "react-icons/io5";
 import { IoHeartCircle } from "react-icons/io5";
+import { SiExpo } from "react-icons/si";
+import { SiAppwrite } from "react-icons/si";
 
 export default function Skillset() {
     useEffect(() => {
@@ -118,9 +121,17 @@ export default function Skillset() {
                     <div className="icons col-md-2 col-4">
                         <FaSalesforce className='ico'/>
                     </div>
-                    
+                    <div className="icons col-md-2 col-4">
+                        <TbBrandReactNative className='ico'/>
+                    </div>
                     <div className="icons col-md-2 col-4">
                         <IoHeartCircle className='ico'/>
+                    </div>
+                    <div className="icons col-md-2 col-4">
+                        <SiExpo className='ico'/>
+                    </div>
+                    <div className="icons col-md-2 col-4">
+                        <SiAppwrite className='ico'/>
                     </div>
                 </div>
                 </div>
