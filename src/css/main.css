@@ -408,7 +408,8 @@ hr{
     font-size: 4.5em;
     margin: 15px;
     overflow: hidden;
-    padding-bottom: 25px;
+    padding-bottom: 35px;
+    padding-right: 10px !important;
     text-align: center;
     justify-self: center;
 }

@@ -308,7 +308,7 @@ export default function Content() {
               & Achievements
             </h4>
             <p>
-              Became one of the<strong className="text-altdeep">Top 10</strong>{" "}
+              Became one of the <strong className="text-altdeep">Top 10</strong>{" "}
               Contributors of{" "}
               <strong className="text-altdeep">
                 {" "}
