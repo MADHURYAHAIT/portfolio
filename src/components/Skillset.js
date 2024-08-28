@@ -21,6 +21,8 @@ import { IoLogoVercel } from "react-icons/io5";
 import { IoHeartCircle } from "react-icons/io5";
 import { SiExpo } from "react-icons/si";
 import { SiAppwrite } from "react-icons/si";
+import { FaLinux } from "react-icons/fa";
+import { SiLua } from "react-icons/si";
 
 export default function Skillset() {
     useEffect(() => {
@@ -132,6 +134,12 @@ export default function Skillset() {
                     </div>
                     <div className="icons col-md-2 col-4">
                         <SiAppwrite className='ico'/>
+                    </div>
+                    <div className="icons col-md-2 col-4">
+                        <FaLinux className='ico' alt="Linux"/>
+                    </div>
+                    <div className="icons col-md-2 col-4">
+                        <SiLua className='ico' alt="Linux"/>
                     </div>
                 </div>
                 </div>
