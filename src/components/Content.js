@@ -345,8 +345,9 @@ export default function Content() {
               Keysight Technologies
             </h4>
             <p>
-             Currently working at <strong className="text-altdeep">Keysight Technologies (IT Department)  </strong> as a Salesforce Developer in Gurugram, India
+             Currently working at <strong className="text-altdeep">Keysight Technologies (IT Department)  </strong> in CPQ with Logik IO in Gurugram, India. Also learnt Salesforce
              which is helping me to develope as a professional understanding the working of a company and contributing to it's growth.
+             
             </p>
           </VerticalTimelineElement>
 
