@@ -184,18 +184,13 @@ export default function Content() {
             <p>
               I've completed my primary & secondary education from{" "}
               <strong className="text-altdeep">Jamshedpur Public School</strong>{" "}
-              in 2021. <br />
-              Won the <strong className="text-altdeep"> Bhartiya Sanskriti Gyan Pariksha</strong>.
+              in 2021  with <strong className="text-altdeep">
+                91 percent.
+              </strong> <br />
+              Won <strong className="text-altdeep"> Bhartiya Sanskriti Gyan Pariksha</strong> &
               State Level Winner of  <strong className="text-altdeep">Inspire-Manak Awards</strong>.
-              I scored {" "}
-              <strong className="text-altdeep">
-                91%
-              </strong>{" "}
-              in {" "}
-              <strong className="text-altdeep">
-              CBSE Boards 2021.{" "}
 
-              </strong>
+
             </p>
 
           </VerticalTimelineElement>
@@ -225,7 +220,7 @@ export default function Content() {
               </strong>
               Majitar, Sikkim, India.
               Have actively participated in various clubs like
-              <strong className="text-altdeep"> GDSC & IAESTE </strong>, held and taught hundreads of students.  
+              <strong className="text-altdeep"> GDSC & IAESTE </strong>.
             </p>
           </VerticalTimelineElement>
 
@@ -245,8 +240,7 @@ export default function Content() {
               I'm an Aspiring{" "}
               <strong className="text-altdeep">Full-Stack Web / App Developer</strong>{" "}
               based in <strong className="text-altdeep"> Jamshedpur </strong>,
-              India
-              <br />
+              India.
               My field of Interest are building new{" "}
               <strong className="text-altdeep">Web Technologies</strong> and the
               products of Modern World. <br />
@@ -254,7 +248,7 @@ export default function Content() {
               <strong className="text-altdeep">
                 Salesforce , CRM
               </strong>{" "}
-              and working on<strong className="text-altdeep">Oracle CPQ</strong> &{" "}
+              and working on<strong className="text-altdeep"> Oracle CPQ</strong> &{" "}
               <strong className="text-altdeep">Logik IO</strong>
             </p>
           </VerticalTimelineElement>
