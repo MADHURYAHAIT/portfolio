@@ -8,6 +8,7 @@ import { FaGithub } from "react-icons/fa";
 import { FaMusic } from "react-icons/fa";
 import Typed from "typed.js";
 import { ImOffice } from "react-icons/im";
+import { BiSolidInstitution } from "react-icons/bi";
 import "aos/dist/aos.css";
 import {
   VerticalTimeline,
@@ -169,7 +170,7 @@ export default function Content() {
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             contentArrowStyle={{ borderRight: "7px solid  #292828" }}
-            date="2003 - present"
+            date="2007 - 2021"
             dateClassName={"color-date"}
             icon={<FaSchool />}
             iconStyle={{ background: "#191919", color: "#fff" }}
@@ -181,10 +182,40 @@ export default function Content() {
               Jamshedpur, India
             </h4>
             <p>
-              I've completed my Schooling from{" "}
+              I've completed my primary & secondary education from{" "}
               <strong className="text-altdeep">Jamshedpur Public School</strong>{" "}
-              in 2021 <br />
-              I'm currently a 3rd year{" "}
+              in 2021. <br />
+              Won the <strong className="text-altdeep"> Bhartiya Sanskriti Gyan Pariksha</strong>.
+              State Level Winner of  <strong className="text-altdeep">Inspire-Manak Awards</strong>.
+              I scored {" "}
+              <strong className="text-altdeep">
+                91%
+              </strong>{" "}
+              in {" "}
+              <strong className="text-altdeep">
+              CBSE Boards 2021.{" "}
+
+              </strong>
+            </p>
+
+          </VerticalTimelineElement>
+
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentArrowStyle={{ borderRight: "7px solid  #292828" }}
+            date="2021 - present"
+            dateClassName={"color-date"}
+            icon={<BiSolidInstitution/>}
+            iconStyle={{ background: "#191919", color: "#fff" }}
+          >
+            <h3 className="vertical-timeline-element-title">
+              <strong className="text-altdeep">B.Tech in (AI & DS)</strong>
+            </h3>
+            <h4 className="vertical-timeline-element-subtitle">
+              Sikkim, India
+            </h4>
+            <p>
+              I'm currently a final year{" "}
               <strong className="text-altdeep">
                 Artifical Intelligence & Data Science
               </strong>{" "}
@@ -193,40 +224,44 @@ export default function Content() {
                 Sikkim Manipal Institute of Technology,{" "}
               </strong>
               Majitar, Sikkim, India.
+              Have actively participated in various clubs like
+              <strong className="text-altdeep"> GDSC & IAESTE </strong>, held and taught hundreads of students.  
             </p>
           </VerticalTimelineElement>
+
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - present"
+            date="2019 - present"
             contentArrowStyle={{ borderRight: "7px solid  #292828" }}
             dateClassName={"color-date"}
             icon={<FaDesktop />}
             iconStyle={{ background: "#191919", color: "#fff" }}
           >
             <h3 className="vertical-timeline-element-title">
-              <strong className="text-altdeep">Aspiring Web Developer</strong>
+              <strong className="text-altdeep">Aspiring Developer</strong>
             </h3>
             <h4 className="vertical-timeline-element-subtitle">MERN Stack</h4>
             <p>
               I'm an Aspiring{" "}
-              <strong className="text-altdeep">Full-Stack Web Developer</strong>{" "}
+              <strong className="text-altdeep">Full-Stack Web / App Developer</strong>{" "}
               based in <strong className="text-altdeep"> Jamshedpur </strong>,
               India
               <br />
               My field of Interest are building new{" "}
               <strong className="text-altdeep">Web Technologies</strong> and the
               products of Modern World. <br />
-              Currently learning{" "}
+              Currently learning technologies like{" "}
               <strong className="text-altdeep">
-                Backend Web Development
+                Salesforce , CRM
               </strong>{" "}
-              using <strong className="text-altdeep">Javascript</strong> &{" "}
-              <strong className="text-altdeep">Node.js</strong>
+              and working on<strong className="text-altdeep">Oracle CPQ</strong> &{" "}
+              <strong className="text-altdeep">Logik IO</strong>
             </p>
           </VerticalTimelineElement>
+
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2021 - 2022"
+            date="2021 - 2024"
             box-shadow="0 15px 10px rgb(70, 70, 70)"
             contentArrowStyle={{ borderRight: "7px solid  #292828" }}
             dateClassName={"color-date"}
@@ -238,7 +273,7 @@ export default function Content() {
               <strong className="text-altdeep">Work Experience</strong>
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
-              & Internships
+              & Minor Internships
             </h4>
             <p>
               Worked as a{" "}
@@ -250,6 +285,10 @@ export default function Content() {
               Web Development Team & IAESTE IN SMU. Hosted several events and
               conducted workshops on{" "}
               <strong className="text-altdeep">Web Development</strong>.
+              Worked as a Machine Learning Intern in{" "}
+              <strong className="text-altdeep">Tata Steel SNTI</strong> for 3 months.
+              Worked as a DS Intern at{" "}
+              <strong className="text-altdeep">Vixplor Analtics Pvt Ltd.</strong> .
             </p>
           </VerticalTimelineElement>
 
@@ -292,7 +331,7 @@ export default function Content() {
 
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="july 2024 - present"
+            date="July 2024 - present"
             contentArrowStyle={{ borderRight: "7px solid  #292828" }}
             dateClassName={"color-date"}
             icon={<ImOffice/>}
@@ -300,30 +339,14 @@ export default function Content() {
           >
             <h3 className="vertical-timeline-element-title">
               {" "}
-              <strong className="text-altdeep">Programes</strong>
+              <strong className="text-altdeep">Industry</strong>
             </h3>
             <h4 className="vertical-timeline-element-subtitle">
-              & Achievements
+              Keysight Technologies
             </h4>
             <p>
-              Became one of the<strong className="text-altdeep">Top 10</strong>{" "}
-              Contributors of{" "}
-              <strong className="text-altdeep">
-                {" "}
-                Kharagpur Winter of Code 2023{" "}
-              </strong>
-              .<br />
-              Ranked <strong className="text-altdeep">#1</strong> in 2022 &{" "}
-              <strong className="text-altdeep">#2</strong> in 2023 in{" "}
-              <strong className="text-altdeep">
-                {" "}
-                Rangoli Making competition.{" "}
-              </strong>
-              <br />
-              Hosted <strong className="text-altdeep">4 workshops</strong> in
-              2023-24 &{" "}
-              <strong className="text-altdeep">taught hundreads</strong> as a
-              GDSC core Web-Developement member.
+             Currently working at <strong className="text-altdeep">Keysight Technologies (IT Department)  </strong> as a Salesforce Developer in Gurugram, India
+             which is helping me to develope as a professional understanding the working of a company and contributing to it's growth.
             </p>
           </VerticalTimelineElement>
 

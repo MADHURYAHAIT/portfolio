@@ -12,6 +12,7 @@ import { SiExpress } from "react-icons/si";
 import { SiLatex } from "react-icons/si";
 import { GrMysql } from "react-icons/gr";
 import { SiDjango } from "react-icons/si";
+import { FaSalesforce } from "react-icons/fa";
 import { SiFramework7 } from "react-icons/si";
 import { SiFastapi } from "react-icons/si";
 import { SiTensorflow } from "react-icons/si";
@@ -114,6 +115,10 @@ export default function Skillset() {
                     <div className="icons col-md-2 col-4">
                         <IoLogoVercel className='ico'/>
                     </div>
+                    <div className="icons col-md-2 col-4">
+                        <FaSalesforce className='ico'/>
+                    </div>
+                    
                     <div className="icons col-md-2 col-4">
                         <IoHeartCircle className='ico'/>
                     </div>
