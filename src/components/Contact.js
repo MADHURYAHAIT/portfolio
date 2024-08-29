@@ -2,6 +2,9 @@ import React from 'react'
 import { FaSearchLocation } from "react-icons/fa";
 import { MdOutlineEmail } from "react-icons/md";
 import { IoMdCall } from "react-icons/io";
+import WebToLeadForm from './SalesforceForm';
+import "../css/contact.css"
+import ContactForm from './Form';
 
 export default function Contact() {
     return (
@@ -10,13 +13,12 @@ export default function Contact() {
             <div className="container d-flex flex-column mytext" id='contact' data-aos="fade-up">
                 
                 <div className='fs-2 pb-5 text-center heading-text welcome-text'>
-                <div className='Title'>Contacts</div>
+                <div className='Title'>Contact</div>
                 <hr/>
-                    <strong className='welcome-text'> FIND ME</strong>  ON
+                    <strong className='welcome-text'> LETS CONNECT</strong> 
                 </div>
-
                 <div class="container1">
-
+{/* 
                     <div class="row">
 
                     <div class="col-lg-6">
@@ -52,11 +54,15 @@ export default function Contact() {
                         </div>
                     
                     </div>
-                </div>
+                </div> */}
+
                     {/* <a href="#top" style={{ color: 'wheat' ,display: 'flex', flexDirection:'column', alignItems: 'center',paddingBottom:'2%',paddingTop:'2%'}}>
                         <FaCircleArrowUp className="d-flex center" style={{ fontSize: '50px'}} />
                     
                     </a> */}
+                      
+                        
+                <ContactForm/>
                 </div>
                
             
