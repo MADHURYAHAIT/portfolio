@@ -23,8 +23,10 @@ const ContactForm = () => {
           <div className="responsive-cell-block wk-desk-5 wk-ipadp-4 wk-tab-12 wk-mobile-12">
             <img
               className="mainImg"
-              src="https://workik-widget-assets.s3.amazonaws.com/widget-assets/images/mp35.svg"
+              src="/pics/1.jpg"
+              alt="Description of Image"
             />
+
           </div>
           <div className="responsive-cell-block wk-desk-7 wk-ipadp-8 wk-tab-12 wk-mobile-12">
             <p className="text-blk heading">: )</p>
