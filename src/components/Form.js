@@ -107,7 +107,7 @@ const ContactForm = () => {
           
             
 
-              <button type="submit" className="submit">
+              <button type= "submit" className="submit">
                 <BsFillSendFill className="iconn" />  Send Message
             </button>
             </form>
