@@ -2,7 +2,7 @@ import React from 'react'
 import { FaSearchLocation } from "react-icons/fa";
 import { MdOutlineEmail } from "react-icons/md";
 import { IoMdCall } from "react-icons/io";
-import WebToLeadForm from './SalesforceForm';
+
 import "../css/contact.css"
 import ContactForm from './Form';
 import GiftBoxAnimation from './GiftBoxAnimation';
@@ -64,9 +64,9 @@ export default function Contact() {
                         
                 <ContactForm/>
                 <div className='fs-2 pb-5 text-center heading-text welcome-text'>
-                <div className='Title'>came this far !</div>
+                <div className='Title'>your gift</div>
                 <hr/>
-                    <strong className='welcome-text'>Here's your gift</strong> 
+                    <strong className='welcome-text'>for coming this far : )</strong> 
                 </div>
 
                 <GiftBoxAnimation/>
