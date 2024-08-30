@@ -63,6 +63,12 @@ export default function Contact() {
                       
                         
                 <ContactForm/>
+                <div className='fs-2 pb-5 text-center heading-text welcome-text'>
+                <div className='Title'>came this far !</div>
+                <hr/>
+                    <strong className='welcome-text'>Here's your gift</strong> 
+                </div>
+
                 <GiftBoxAnimation/>
                 </div>
                
