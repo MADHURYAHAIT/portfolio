@@ -5,7 +5,7 @@ import { IoMdCall } from "react-icons/io";
 import WebToLeadForm from './SalesforceForm';
 import "../css/contact.css"
 import ContactForm from './Form';
-
+import GiftBoxAnimation from './GiftBoxAnimation';
 export default function Contact() {
     return (
         <>
@@ -63,6 +63,7 @@ export default function Contact() {
                       
                         
                 <ContactForm/>
+                <GiftBoxAnimation/>
                 </div>
                
             

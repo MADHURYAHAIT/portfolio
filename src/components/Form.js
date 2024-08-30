@@ -23,7 +23,7 @@ const ContactForm = () => {
           <div className="responsive-cell-block wk-desk-5 wk-ipadp-4 wk-tab-12 wk-mobile-12">
             <img
               className="mainImg"
-              src="/pics/1.jpg"
+              src="./pics/1.jpg"
               alt="Description of Image"
             />
 
