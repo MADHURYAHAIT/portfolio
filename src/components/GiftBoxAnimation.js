@@ -43,7 +43,7 @@ export default function GiftBoxAnimation() {
   }
 
   return (
-    <div className="App">
+    <div className={`App ${rotated === "rotated" ? "fixed" : ""}`}>
       <Confetti open={jump === "jump"} />
       <div className="img-container">
         <img className={`kuku ${jump}`} src={kuku} alt="kuku" />

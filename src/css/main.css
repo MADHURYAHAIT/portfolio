@@ -1,6 +1,7 @@
 * {
     margin: 0px;
     padding: 0px;
+ 
     /* font-family: 'Raleway', sans-serif; */
     scroll-behavior: smooth;
  
@@ -22,6 +23,7 @@ hr{
   }
 
 :root {
+    
     --primary-color: #c8ff00;
     background-color: #8f9400;
 
@@ -188,6 +190,7 @@ hr{
 }
 
 #main {
+     overflow-x: hidden;
     background-size: cover;
     /* background-color: #b6187e; */
     /* background-color: #012d24; */
