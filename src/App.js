@@ -26,7 +26,7 @@ function App() {
     };
 
     simulatePageLoad();
-  }, []);
+   }, []);
   return (
     
      // <ParticleBackground/> 
